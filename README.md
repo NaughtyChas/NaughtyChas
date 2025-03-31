@@ -14,7 +14,7 @@ New to the world of programming, aiming to participate into more interesting pro
 </a>
 <br />
 <a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
-  <img height=330 align="center" src="https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=310 align="center" src="https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 
 ---
