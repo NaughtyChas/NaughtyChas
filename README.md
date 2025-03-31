@@ -7,10 +7,10 @@ New to the world of programming, aiming to participate into more interesting pro
 ---
 
 <a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
-  <img height=130 align="center" src="https://streak-stats.demolab.com?user=NaughtyChas&theme=default&hide_border=false" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=NaughtyChas&theme=default&hide_border=false" />
 </a>
 <a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaughtyChas&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaughtyChas&layout=compact" />
 </a>
 <br />
 <a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
