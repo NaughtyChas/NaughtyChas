@@ -6,7 +6,16 @@ New to the world of programming, aiming to participate into more interesting pro
 
 ---
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaughtyChas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=NaughtyChas&theme=default&hide_border=false" />
+</a>
+<a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaughtyChas&layout=compact" />
+</a>
+<br />
+<a href="https://github.com/NaughtyChas/NaughtyChas/tree/master">
+  <img height=330 align="center" src="https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
 
 ---
 
