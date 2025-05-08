@@ -1,8 +1,8 @@
 ### Hi, NaughtyChas here. <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-Currently an undergraduate sudent at HKU, in Bachelor of Enginnering.
+Currently an undergraduate student at HKU, in the Bachelor of Engineering.
 
-New to the world of programming, aiming to participate into more interesting projects.
+New to the world of programming, aiming to participate in more interesting projects.
 
 ---
 
