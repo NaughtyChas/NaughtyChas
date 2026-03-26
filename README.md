@@ -1,12 +1,44 @@
-### Hi, NaughtyChas here. <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
-
-Currently an undergraduate student at HKU, in the Bachelor of Engineering (CompSc).
-
-New to the world of programming, aiming to participate in more interesting projects.
+Hi, Naucha here. <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 ---
 
-#### Contact
+The man behind this profile page is a full time student at the University of Hong Kong, majoring in Computer Science. 
 
-Feel free to reach me at naughtychas@outlook.com
+He is still on his way to achieve a goal of becoming an *Machine Learning Engineer*.  
+
+As for now, he's exploring the path of *Software Engineering* on GitHub by opening countless of private repositories and filling them with delicious spaghetti code to bring his ideas (~perhaps wheels that have been reinvented, or maybe hasn't...~) to life.
+
+---
+
+We have interviewed him about what was his take on himself on his capabilities:
+
+> *Interviewer:* ...so aside from being a student, what do you think about your skills in coding?  
+> *Naucha:* I sucks.    
+> *Interviewer:* what do you think your tech stack is?  
+> *Naucha:* I can do anything from MS Word to Excel, PowerPoint, and even Outlook.
+
+Classic CS student response.
+
+> *Interviewer:* well what do you think is the best language for you to code in?  
+> *Naucha:* EZ win on LLM Prompts lol.
+
+The fact he's simply trolling on us with these answers, we just can't take these responses seriously.
+
+---
+
+When we left his booked study booth at ChiWah, we caught him actively building stuff using:
+
+- **Frontend: JavaScript, React, Tailwind CSS**  
+- **Backend: Node.js, Python**
+- **DevOps: Docker**, little bit of **Kubernetes**
+- **Other Languages: C#, C艹**, with a pinch of **Go, Rust**, and **Java**.
+
+The fact he shows his strong interest in learning new technologies and expanding his skill set, mostly Machine Learning, where he's been passionate about making models that serves solution to problems.
+
+We've spotted this guy's Curriculum Vitae and found out he's got PhD in Failure Management, Master's in OverEngineering, and a Bachelor's in Late Night Committing.
+
+---
+
+Perhaps the stuff we can certainly trust is, we can reach out to him anytime at naughtychas@outlook.com.
+
 
