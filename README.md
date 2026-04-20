@@ -2,7 +2,7 @@ Hi, Naucha here. <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6Ljj
 
 ---
 
-The man behind this profile page is a full-time student at the University of Hong Kong, majoring in Computer Science. 
+The person behind this profile page is a full-time student at the University of Hong Kong, majoring in Computer Science. 
 
 He is still on his way to achieve a goal of becoming a *Machine Learning Engineer*.  
 
