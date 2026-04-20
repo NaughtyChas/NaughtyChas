@@ -43,6 +43,6 @@ We've spotted this guy's Curriculum Vitae and found out he's got a PhD in Failur
 
 ---
 
-Perhaps the stuff we can certainly trust is that we can reach out to him anytime at naughtychas@outlook.com.
+You can reach out to him for anything at any time at naughtychas@outlook.com.
 
 
