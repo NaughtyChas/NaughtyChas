@@ -1,4 +1,4 @@
-# Hi, Naucha here. <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>
+### Hi, Naucha here. <img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt="Hi" width="24"/>
 
 Computer Science student at **The University of Hong Kong**.  
 I write code, design systems, and turn small ideas into working tools.
@@ -16,9 +16,9 @@ I write code, design systems, and turn small ideas into working tools.
 
 ## Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Frontend
 
@@ -29,22 +29,21 @@ I write code, design systems, and turn small ideas into working tools.
 React · Tailwind CSS · TypeScript
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Backend
 
-<div justify-content="center" align-items="center">
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,rust" />
 </p>
 
 Node.js · Python · Rust
-</div>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ML / Data
 
@@ -55,7 +54,7 @@ Node.js · Python · Rust
 PyTorch · NumPy · pandas
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Tools
 
@@ -67,8 +66,9 @@ Docker · Linux · GitHub Actions · Git
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Other Languages
 
@@ -79,18 +79,19 @@ Docker · Linux · GitHub Actions · Git
 C# · C++ · Java · Go
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Current Direction
 
-Machine Learning Engineering  
-Full-stack Development  
-Developer Tools  
-System Design  
+Machine Learning Engineering / 
+Full-stack Development / 
+Developer Tools / 
+System Design
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -103,3 +104,4 @@ System Design
 ## Contact
 
 **Email:** [naughtychas@outlook.com](mailto:naughtychas@outlook.com)
+
