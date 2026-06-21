@@ -5,15 +5,6 @@ I write code, design systems, and turn small ideas into working tools.
 
 ---
 
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=NaughtyChas&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## Stack
 
 <table width="100%">
@@ -92,6 +83,14 @@ System Design
 </tr>
 </table>
 
+---
+
+## GitHub Snapshot
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NaughtyChas&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=NaughtyChas&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
