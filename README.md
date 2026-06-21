@@ -83,10 +83,10 @@ C# · C++ · Java · Go
 
 ### Current Direction
 
-Machine Learning Engineering
-Full-stack Development
-Developer Tools
-System Design
+Machine Learning Engineering  
+Full-stack Development  
+Developer Tools  
+System Design  
 
 </td>
 </tr>
